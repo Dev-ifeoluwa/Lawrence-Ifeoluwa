@@ -1,6 +1,6 @@
 # React + Vite
 
-This is ifeoluwa lawrence work
+This is ifeoluwa lawrence fowobaje
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
